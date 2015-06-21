@@ -1,0 +1,11 @@
+# This project it´s based on  "Word Cloud" from Shiny Gallery by RStudio
+#
+# http://shiny.rstudio.com/gallery/word-cloud.html
+#
+
+The idea it´s pretty simple, this app shows a word cloud of a book that was previously selected.
+
+Step 1: At the first combo box, choose a book from the combo´s list and press "Change"
+Step 2: Choose a minimum frequency of the words and the top Nth popular words in the scroll "Maximum Number of Words"
+
+You can check the result in cloud generated in the right part of the application screen.
